@@ -1,5 +1,4 @@
 # Bank Marketing Data Set : Predict the Success of Bank Telemarketing
-(we used multiple machine learning algorithme then compare which one is better)
 The data is related with direct marketing campaigns of a Portuguese banking institution.
 The marketing campaigns were based on phone calls.
 Often, more than one contact to the same client was required, in order to access if the
@@ -9,3 +8,5 @@ More details can be found here
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 The data set is available here (both big and small dataset)
 https://www.dropbox.com/scl/fi/iojazwa0ssidq67pepsfo/bank.zip
+
+**we used multiple machine learning algorithme then compared them to see which one is better**
