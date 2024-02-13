@@ -1,4 +1,5 @@
-##Bank Marketing Data Set : Predict the Success of Bank Telemarketing (we used multiple machine learning algorithme then compare which one is better)
+# Bank Marketing Data Set : Predict the Success of Bank Telemarketing
+(we used multiple machine learning algorithme then compare which one is better)
 The data is related with direct marketing campaigns of a Portuguese banking institution.
 The marketing campaigns were based on phone calls.
 Often, more than one contact to the same client was required, in order to access if the
