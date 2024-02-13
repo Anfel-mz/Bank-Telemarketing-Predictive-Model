@@ -9,4 +9,4 @@ https://archive.ics.uci.edu/dataset/222/bank+marketing
 The data set is available here (both big and small dataset)
 https://www.dropbox.com/scl/fi/iojazwa0ssidq67pepsfo/bank.zip
 
-**we used multiple machine learning algorithme then compared them to see which one is better**
+**we used multiple machine learning algorithms then compared them to see which one is better**
